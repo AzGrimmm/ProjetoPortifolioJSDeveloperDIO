@@ -45,6 +45,7 @@ header h1 {
     display: flex;
     flex-direction: row;
     align-items: center;
+    font-weight: bold;
 }
 
 .information p::before {
@@ -73,6 +74,15 @@ header h1 {
 
 .information .phone::before {
     background-image: url('/assets/images/icons/phone.svg');
+}
+
+.linksHeader {
+    color: white;
+    text-decoration: none;
+    cursor: pointer;
+}
+.linksHeader:hover {
+    text-decoration: underline;
 }
 
 @media only screen and (min-width: 768px) {
