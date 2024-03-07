@@ -3,7 +3,8 @@
   "photo": "https://avatars.githubusercontent.com/u/149212642?v=4",
   "job": "Dev Junior",
   "location": "Maringá PR",
-  "phone": "(44) 9 99921-1921",
+  "locationHref": "https://www.google.com.br/maps/place/Maring%C3%A1+-+Floriano,+Maring%C3%A1+-+PR/@-23.4379955,-52.0447664,11z/data=!4m6!3m5!1s0x94ecd6ee42618c1f:0xc356592828e03925!8m2!3d-23.4209995!4d-51.9330558!16zL20vMDF0dnpx?entry=ttu",
+  "phone": "(44) 9 9921-1921",
   "email": "brunohcj14@gmail.com",
   "skills": {
     "hardSkills": [
